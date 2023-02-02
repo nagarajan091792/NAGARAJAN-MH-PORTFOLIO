@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/nagarajan-mh-portfolio/static/css/main.c088a03d.css",
-    "main.js": "/nagarajan-mh-portfolio/static/js/main.faa0a323.js",
-    "index.html": "/nagarajan-mh-portfolio/index.html",
-    "main.c088a03d.css.map": "/nagarajan-mh-portfolio/static/css/main.c088a03d.css.map",
-    "main.faa0a323.js.map": "/nagarajan-mh-portfolio/static/js/main.faa0a323.js.map"
+    "main.css": "/NAGARAJAN-MH-PORTFOLIO/static/css/main.c088a03d.css",
+    "main.js": "/NAGARAJAN-MH-PORTFOLIO/static/js/main.faa0a323.js",
+    "index.html": "/NAGARAJAN-MH-PORTFOLIO/index.html",
+    "main.c088a03d.css.map": "/NAGARAJAN-MH-PORTFOLIO/static/css/main.c088a03d.css.map",
+    "main.faa0a323.js.map": "/NAGARAJAN-MH-PORTFOLIO/static/js/main.faa0a323.js.map"
   },
   "entrypoints": [
     "static/css/main.c088a03d.css",

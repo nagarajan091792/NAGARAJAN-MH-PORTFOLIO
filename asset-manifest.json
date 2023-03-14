@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/NAGARAJAN-MH-PORTFOLIO/static/css/main.c088a03d.css",
-    "main.js": "/NAGARAJAN-MH-PORTFOLIO/static/js/main.faa0a323.js",
+    "main.js": "/NAGARAJAN-MH-PORTFOLIO/static/js/main.ac44edf4.js",
     "index.html": "/NAGARAJAN-MH-PORTFOLIO/index.html",
     "main.c088a03d.css.map": "/NAGARAJAN-MH-PORTFOLIO/static/css/main.c088a03d.css.map",
-    "main.faa0a323.js.map": "/NAGARAJAN-MH-PORTFOLIO/static/js/main.faa0a323.js.map"
+    "main.ac44edf4.js.map": "/NAGARAJAN-MH-PORTFOLIO/static/js/main.ac44edf4.js.map"
   },
   "entrypoints": [
     "static/css/main.c088a03d.css",
-    "static/js/main.faa0a323.js"
+    "static/js/main.ac44edf4.js"
   ]
 }

@@ -38,7 +38,7 @@ const projects = [
   {
     name: 'QR Code Generator',
     description:
-      'Enter your URL.  Generate your QR Code.  Click download and save the file to your computer. ',
+      'Depending on your purpose, you can used our generator to create QR Codes to open a website. ',
     stack: ['HTML', 'CSS', 'JavaScript'],
     sourceCode: 'https://github.com/nagarajan091792/QR-CODE-GENERATOR.git',
     livePreview: 'https://aquamarine-gingersnap-c6ea77.netlify.app/',

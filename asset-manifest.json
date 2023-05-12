@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NAGARAJAN-MH-PORTFOLIO/static/css/main.2dcf5e06.css",
+    "main.js": "/NAGARAJAN-MH-PORTFOLIO/static/js/main.645fc40d.js",
+    "index.html": "/NAGARAJAN-MH-PORTFOLIO/index.html",
+    "main.2dcf5e06.css.map": "/NAGARAJAN-MH-PORTFOLIO/static/css/main.2dcf5e06.css.map",
+    "main.645fc40d.js.map": "/NAGARAJAN-MH-PORTFOLIO/static/js/main.645fc40d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2dcf5e06.css",
+    "static/js/main.645fc40d.js"
+  ]
+}
